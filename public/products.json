@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13",
+    "price": 799,
+    "description": "Новий iPhone 13 з 6.1-дюймовим дисплеєм та двома камерами.",
+    "fullDescription": "Apple iPhone 13 — це смартфон з 6.1-дюймовим Super Retina XDR дисплеєм, потужним чіпом A15 Bionic, та вдосконаленими камерами для зйомки високоякісних фотографій і відео. Підтримує 5G, має чудову автономність.",
+    "image": "/images/iphone13.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 749,
+    "description": "Samsung Galaxy S21 з процесором Exynos 2100 та потужною камерою.",
+    "fullDescription": "Samsung Galaxy S21 оснащений 6.2-дюймовим Dynamic AMOLED 2X дисплеєм, процесором Exynos 2100 та трьома камерами, що забезпечують чудову якість зйомки в різних умовах освітлення.",
+    "image": "/images/galaxy-s21.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM4",
+    "price": 299,
+    "description": "Бездротові навушники Sony з шумозаглушенням та високою якістю звуку.",
+    "fullDescription": "Sony WH-1000XM4 — це преміум бездротові навушники з активним шумозаглушенням, що пропонують до 30 годин автономної роботи та відмінну якість звуку, ідеальні для тривалих прослуховувань.",
+    "image": "/images/sony-wh1000xm4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air M1",
+    "price": 999,
+    "description": "MacBook Air з процесором M1 від Apple та 13-дюймовим Retina дисплеєм.",
+    "fullDescription": "Apple MacBook Air M1 — це легкий і потужний ноутбук з новим процесором M1, який забезпечує вражаючу продуктивність, до 18 годин автономної роботи та яскравий Retina дисплей.",
+    "image": "/images/macbook-air-m1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dell XPS 13",
+    "price": 1099,
+    "description": "Портативний ноутбук Dell XPS 13 з Intel Core i7 та 13.4-дюймовим дисплеєм.",
+    "fullDescription": "Dell XPS 13 — це стильний і компактний ноутбук з процесором Intel Core i7, 13.4-дюймовим InfinityEdge дисплеєм та потужною батареєю, що ідеально підходить для роботи та розваг.",
+    "image": "/images/dell-xps-13.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy Watch 4",
+    "price": 249,
+    "description": "Розумний годинник від Samsung з функціями фітнес-трекера.",
+    "fullDescription": "Samsung Galaxy Watch 4 — це розумний годинник з потужними функціями для трекінгу активності, моніторингу здоров'я та можливістю отримувати сповіщення з вашого смартфона, стильний та зручний у використанні.",
+    "image": "/images/galaxy-watch-4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Amazon Kindle Paperwhite",
+    "price": 139,
+    "description": "Електронна книга з 6.8-дюймовим дисплеєм для комфортного читання.",
+    "fullDescription": "Amazon Kindle Paperwhite — це електронна книга з підсвічуванням та 6.8-дюймовим дисплеєм, що забезпечує комфортне читання навіть при яскравому сонячному світлі. Витримує до 10 тижнів без підзарядки.",
+    "image": "/images/kindle-paperwhite.jpg"
+  },
+  {
+    "id": 8,
+    "name": "GoPro HERO9 Black",
+    "price": 399,
+    "description": "Екшн-камера GoPro HERO9 з 5K відеозйомкою та стабілізацією.",
+    "fullDescription": "GoPro HERO9 Black — це екшн-камера з можливістю зйомки відео у 5K, чудовою стабілізацією та водонепроникним корпусом, ідеальна для зйомки пригод та активного відпочинку.",
+    "image": "/images/gopro-hero9.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Nintendo Switch",
+    "price": 299,
+    "description": "Ігрова консоль Nintendo Switch з можливістю підключення до телевізора.",
+    "fullDescription": "Nintendo Switch — це ігрова консоль, яка дозволяє грати вдома та в дорозі. Має можливість підключення до телевізора та підтримує безліч популярних ігор.",
+    "image": "/images/nintendo-switch.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dyson V11 Vacuum Cleaner",
+    "price": 599,
+    "description": "Потужний бездротовий пилосос від Dyson з тривалим часом роботи.",
+    "fullDescription": "Dyson V11 — це бездротовий пилосос з потужним всмоктуванням, інтелектуальною системою управління потужністю та тривалим часом роботи, що дозволяє підтримувати ваш дім в чистоті.",
+    "image": "/images/dyson-v11.jpg"
+  }
+]
